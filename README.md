@@ -95,7 +95,7 @@ python scripts/load_data.py
 ---
 
 ## **📊 Visualizations and Reports**
-Visualization and reports are saved in the reports folder.
+Visualization and reports are saved in the `reports` folder.
 
 ---
 
