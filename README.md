@@ -5,11 +5,12 @@ This project demonstrates how to build an **ETL (Extract, Transform, Load) pipel
 ---
 
 ## **📌 Project Workflow**
-1. **Step 1:** Run `step_1_run_this_file_to_install_the_raw_dataset.py` to download and store the raw dataset in the `data/` folder.
-2. **Step 2:** Run `extract_data.py` to extract and process the raw data.
-3. **Step 3:** Run `transform_data.py` to clean and structure the dataset.
-4. **Step 4:** Run `load_data.py` to load the cleaned dataset into a **PostgreSQL database**.
-5. **Step 5:** The cleaned dataset is saved as `cleaned_final_data.csv` inside the `data/` folder.
+1. **Step 1:** Create a folder named `data` inside the root directory.
+1. **Step 2:** Run `step_1_run_this_file_to_install_the_raw_dataset.py` to download and store the raw dataset in the `data/` folder.
+2. **Step 3:** Run `extract_data.py` to extract and process the raw data.
+3. **Step 4:** Run `transform_data.py` to clean and structure the dataset.
+4. **Step 5:** Run `load_data.py` to load the cleaned dataset into a **PostgreSQL database**.
+5. **Step 6:** The cleaned dataset is saved as `cleaned_final_data.csv` inside the `data/` folder.
 
 ---
 
