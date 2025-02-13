@@ -37,8 +37,6 @@ To install all the required Python libraries, run:
 pip install pandas psycopg2 SQLAlchemy kaggle
 ```
 
-**Note:** The `kaggle` package is required to download the dataset. Make sure your Kaggle API credentials are set up.
-
 ---
 
 ## **🚀 Step-by-Step Setup and Execution**
